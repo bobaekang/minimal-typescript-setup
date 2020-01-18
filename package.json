@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bobaekang/minimal-typescript-setup#readme",
   "devDependencies": {
+    "@types/node": "^13.1.8",
     "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
