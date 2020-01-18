@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc --build",
+    "lint": "tsc --noEmit && eslint \"**/*.ts\" --quiet --fix",
     "serve": "ts-node ./src",
     "start": "node ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
