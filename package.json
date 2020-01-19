@@ -1,7 +1,8 @@
 {
   "name": "minimal-typescript-setup",
+  "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "Minimal TypeScript project setup for curious minds",
   "main": "index.js",
   "scripts": {
     "build": "tsc --build",
@@ -14,9 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/bobaekang/minimal-typescript-setup.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["minimal", "typescript", "setup"],
+  "author": "Bobae Kang",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bobaekang/minimal-typescript-setup/issues"
   },
