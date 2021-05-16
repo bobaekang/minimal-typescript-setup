@@ -1,3 +1,5 @@
+> 📢 NOTE: If your goal is to simply learn and play with TypeScript, which is what this repo was created to facilitate, **just use [Deno](https://deno.land/)** 🦕. Deno is a new JavaScript runtime that supports TypeScript out of the box, ships as a single executable, has built-in support for linting, formatting and testing, and offers even more!
+
 # Minimal TypeScript project setup for curious minds
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
